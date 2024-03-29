@@ -7,6 +7,19 @@
   pointer-events: none;
 }
 
+
+
+.intro{
+  border-radius: 50px;
+}
+
+.out{
+  background-color:#4444dd;
+  border-radius: 50px;
+  filter: drop-shadow(30px 10px 4px #4444dd);
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
